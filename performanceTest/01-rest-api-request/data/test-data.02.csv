@@ -1,0 +1,8 @@
+username,password,expected_status
+donero,ewedon,200
+donero,ewedo,401
+kevinryan,kev02937@,200
+johnd,m38rmF$,200
+derek,jklg*_56,200
+mor_2314,83r5^_,200
+ronald,ugas,401
